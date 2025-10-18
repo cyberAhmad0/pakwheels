@@ -1,0 +1,2 @@
+pakwheels_price_predictor_upto_1cr.joblib filter=lfs diff=lfs merge=lfs -text
+*.joblib filter=lfs diff=lfs merge=lfs -text
